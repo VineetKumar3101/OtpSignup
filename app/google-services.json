@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "123566374119",
+    "project_id": "otpsingup",
+    "storage_bucket": "otpsingup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123566374119:android:f45073e2855caa5ee37642",
+        "android_client_info": {
+          "package_name": "com.example.otpsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123566374119-vhsgplg8e4raisl64uai5kggq196ur1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpsignup",
+            "certificate_hash": "4a3e8c9de3b54c07bdbfc095c1e8b2c1dc25fb30"
+          }
+        },
+        {
+          "client_id": "123566374119-nnp7opt2lv6gs6uaav4e6th5e5lhr67s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF90OARsigwt5HnwxmuufAlOucR_7SJB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123566374119-nnp7opt2lv6gs6uaav4e6th5e5lhr67s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
